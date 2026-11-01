@@ -1,22 +1,23 @@
-# Mohamed Ayman — Front-End Portfolio
+# Mohamed Ayman — Web Development Portfolio
 
-A dark, responsive portfolio website for **Mohamed Ayman**, a Computer Science & AI Student and Junior Front-End Developer focused on building clear interfaces with React.js and JavaScript.
+A dark, responsive portfolio website for **Mohamed Ayman**, a Cybersecurity student and early-career Full-Stack Web Developer focused on building clear, practical interfaces and web applications.
 
 ## Positioning
 
-- Junior Front-End Developer
-- React Developer
-- Front-End Internship candidate
+- Early-career Full-Stack Web Developer
+- React / Next.js Developer
+- Cybersecurity student, expected graduation 2029
+- Internship and junior-level opportunity candidate
 
 ## Core Skills
 
 ### Front-end
 
-React.js · JavaScript · HTML5 · CSS3 · Front-End Development · Responsive Web Design · React Router · Context API · Vite · Git · GitHub · Local Storage
+React.js · Next.js · JavaScript · TypeScript · HTML5 · CSS3 · Front-End Development · Responsive Web Design · React Router · Context API · Vite · Node.js · Express.js · REST APIs · Git · GitHub · Local Storage
 
 ### Foundations
 
-C++ · OOP · Problem Solving
+C++ · OOP · Problem Solving · Secure development foundations
 
 ## Featured Projects
 
