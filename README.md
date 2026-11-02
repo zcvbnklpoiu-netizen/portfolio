@@ -4,10 +4,10 @@ A dark, responsive portfolio website for **Mohamed Ayman**, a Computer Science &
 
 ## Positioning
 
-- Early-career Full-Stack Web Developer
+- Full-Stack Web Developer
 - React / Next.js Developer
 - Computer Science & Artificial Intelligence student, expected graduation 2029
-- Internship and junior-level opportunity candidate
+- Open to internships, freelance projects, and full-stack opportunities
 
 ## Core Skills
 
