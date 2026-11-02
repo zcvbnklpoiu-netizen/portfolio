@@ -1,12 +1,12 @@
 # Mohamed Ayman — Web Development Portfolio
 
-A dark, responsive portfolio website for **Mohamed Ayman**, a Cybersecurity student and early-career Full-Stack Web Developer focused on building clear, practical interfaces and web applications.
+A dark, responsive portfolio website for **Mohamed Ayman**, a Computer Science & Artificial Intelligence student and Full-Stack Web Developer focused on building clear, practical interfaces and web applications.
 
 ## Positioning
 
 - Early-career Full-Stack Web Developer
 - React / Next.js Developer
-- Cybersecurity student, expected graduation 2029
+- Computer Science & Artificial Intelligence student, expected graduation 2029
 - Internship and junior-level opportunity candidate
 
 ## Core Skills
