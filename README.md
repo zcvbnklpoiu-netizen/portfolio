@@ -11,9 +11,8 @@ A dark, responsive portfolio website for **Mohamed Ayman**, a Computer Science &
 
 ## Core Skills
 
-### Front-end
-
-React.js · Next.js · JavaScript · TypeScript · HTML5 · CSS3 · Front-End Development · Responsive Web Design · React Router · Context API · Vite · Node.js · Express.js · REST APIs · Git · GitHub · Local Storage
+### Web development
+React.js · Next.js · JavaScript · TypeScript · HTML5 · CSS3 · Front-End Development · Responsive Web Design · React Router · Context API · Vite · Node.js · Express.js · REST APIs · Prisma · SQLite · Git · GitHub · Local Storage
 
 ### Foundations
 
@@ -23,6 +22,7 @@ C++ · OOP · Problem Solving · Secure development foundations
 
 | Project | Confirmed focus | Live demo | Repository |
 | --- | --- | --- | --- |
+| MediBook | Next.js full-stack clinic directory and appointment platform with dashboards, authentication, API routes, Prisma, and database-backed workflows | [Open deployment](https://appointment-app-jssf.vercel.app/) | [View repository](https://github.com/zcvbnklpoiu-netizen/appointment-app) |
 | React E-Commerce | Product browsing, routing, cart and wishlist state, checkout UI, and client-side dashboard interface | [Open demo](https://zcvbnklpoiu-netizen.github.io/E-commerce/) | [View repository](https://github.com/zcvbnklpoiu-netizen/E-commerce) |
 | Peak Fitness | Fitness services, membership plans, reviews, responsive layout, and front-end registration interface | [Open demo](https://zcvbnklpoiu-netizen.github.io/gym/) | [View repository](https://github.com/zcvbnklpoiu-netizen/gym) |
 | Caffeine Cove | Coffee shop showcase, product gallery, responsive navigation, and interactive visual effects | [Open demo](https://zcvbnklpoiu-netizen.github.io/Caffeine-Cove/) | [View repository](https://github.com/zcvbnklpoiu-netizen/Caffeine-Cove) |
