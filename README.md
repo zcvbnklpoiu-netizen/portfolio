@@ -12,7 +12,7 @@ A dark, responsive portfolio website for **Mohamed Ayman**, a Computer Science &
 ## Core Skills
 
 ### Web development
-React.js · Next.js · JavaScript · TypeScript · HTML5 · CSS3 · Front-End Development · Responsive Web Design · React Router · Context API · Vite · Node.js · Express.js · REST APIs · Prisma · SQLite · Git · GitHub · Local Storage
+React.js · Next.js · JavaScript · TypeScript · HTML5 · CSS3 · Front-End Development · Responsive Web Design · React Router · Context API · Vite · Node.js · Express.js · REST APIs · MongoDB · Prisma · SQLite · Git · GitHub · Local Storage
 
 ### Foundations
 
